@@ -1,6 +1,5 @@
 {
-  // "name": "@quasar/app-extension-cookie-notification",
-  "name": "app-extension-cookie-notification",
+  "name": "quasar-app-extension-cookie-notification",
   "version": "1.0.0-beta-1",
   "description": "A Quasar app extension to add a cookie notification.",
   "author": "webnoob <allangaunt@gmail.com>",

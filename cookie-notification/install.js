@@ -5,6 +5,6 @@
  */
 
 module.exports = function (api) {
-  api.render('./templates', {}, true) {
-  }
+  console.log('hello')
+  api.render('./templates', {}, true)
 }
