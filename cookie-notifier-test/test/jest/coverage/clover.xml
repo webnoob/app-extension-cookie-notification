@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1550781035911" clover="3.2.0">
+  <project timestamp="1550781035911" name="All files">
+    <metrics statements="12" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="0" elements="20" coveredelements="0" complexity="0" loc="12" ncloc="12" packages="2" files="3" classes="3"/>
+    <package name="layouts">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="MyLayout.vue" path="S:\SourceCode\quasar-app-extension-cookie-notification\cookie-notifier-test\src\layouts\MyLayout.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="router">
+      <metrics statements="10" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="0"/>
+      <file name="index.js" path="S:\SourceCode\quasar-app-extension-cookie-notification\cookie-notifier-test\src\router\index.js">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+      </file>
+      <file name="routes.js" path="S:\SourceCode\quasar-app-extension-cookie-notification\cookie-notifier-test\src\router\routes.js">
+        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
